@@ -58,7 +58,7 @@
 	</ul>
 </div>
 
-<!-- Banner -->
+<!-- Banner1 -->
 <section class="banner full">
 	<article>
 		<img src="${pageContext.request.contextPath}/images/banner1.jpg"
